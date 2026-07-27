@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+models/*.pkl
+models/model_metadata.json
+.streamlit/secrets.toml
